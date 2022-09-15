@@ -16,7 +16,7 @@
 
 ### Screenshots
 <img src="lib/screenshots/Screenshot_1.png" height="500em" /> 
-<img src="Screenshot_2.png" height="500em" /> <img src="Screenshot_3.png" height="500em" /> 
+<img src="lib/screenshots/Screenshot_2.png" height="500em" /> <img src="lib/screenshots/Screenshot_3.png" height="500em" /> 
 <img src=Screenshot_4.png" height="500em" /> 
 <img src="Screenshot_5.png" height="500em" /> 
 <img src="Screenshot_6.png" height="500em" />
