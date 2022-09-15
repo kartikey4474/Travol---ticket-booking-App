@@ -1,6 +1,6 @@
 
 
-<p align="center"><img src="Pages_of_Prose-removebg-preview.png" alt="logo" width="150" height="150"></p> <h1 align="center"> Travol</h1>
+<p align="center"><img src="Pages_of_Prose-removebg-preview.png" alt="logo" width="200" height="200"></p> <h1 align="center"> Travol</h1>
 
  <h2 align = "center"> ◀️ Introduction ▶️ </h2>
 
