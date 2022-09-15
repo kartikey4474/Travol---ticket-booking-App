@@ -17,9 +17,9 @@
 ### Screenshots
 
 <p float="left">
-  <img src="lib/screenshots/Screenshot_1.png" width="300" />
-  <img src="lib/screenshots/Screenshot_2.png" width="300" /> 
   <img src="lib/screenshots/Screenshot_3.png" width="300" />
+  <img src="lib/screenshots/Screenshot_2.png" width="300" /> 
+  <img src="lib/screenshots/Screenshot_1.png" width="300" />
 </p>
 <p float="left">
   <img src="lib/screenshots/Screenshot_4.png" width="300" />
