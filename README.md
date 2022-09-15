@@ -17,19 +17,22 @@
 ### Screenshots
 
 <p float="left">
-  <img src="lib/screenshots/Screenshot_1.png" width="200" />
-  <img src="lib/screenshots/Screenshot_2.png" width="200" /> 
-  <img src="lib/screenshots/Screenshot_3.png" width="200" />
+  <img src="lib/screenshots/Screenshot_1.png" width="300" />
+  <img src="lib/screenshots/Screenshot_2.png" width="300" /> 
+  <img src="lib/screenshots/Screenshot_3.png" width="300" />
+</p>
+<p float="left">
+  <img src="lib/screenshots/Screenshot_4.png" width="300" />
+  <img src="lib/screenshots/Screenshot_5.png" width="300" /> 
+  <img src="lib/screenshots/Screenshot_6.png" width="300" />
+</p>
+<p float="left">
+  <img src="lib/screenshots/Screenshot_7.png" width="300" />
+  <img src="lib/screenshots/Screenshot_8.png" width="300" /> 
+  <img src="lib/screenshots/Screenshot_9.png" width="300" />
 </p>
 
-
-
-<img src=Screenshot_4.png" height="500em" /> 
-<img src="Screenshot_5.png" height="500em" /> 
-<img src="Screenshot_6.png" height="500em" />
-<img src="Screenshot_7.png" height="500em" /> 
-<img src="Screenshot_8.png" height="500em" />
-<img src="Screenshot_9.png" height="500em" />                                           
+                                      
                                           
                                           
 
