@@ -21,6 +21,6 @@ class Trip {
 
   getTripCost() {
     return (numberOfAdults + ((numberOfChildren ?? 0) * 0.5)).toString() +
-        ' BTC';
+        'BTC';
   }
 }
